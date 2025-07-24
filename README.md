@@ -49,7 +49,8 @@ This is a console-based program using text menus and prompts. The focus of the p
 
 -Manual data storage (e.g., ArrayLists, HashMaps)
 <br/><br/>
-### **Contact**: Feel free to reach out via LinkedIn or email if you'd like to discuss the project or collaborate.
+### **Contact**: 
+Feel free to reach out via LinkedIn or email if you'd like to discuss the project or collaborate.
 
 www.linkedin.com/in/vali-antonio-andronic-231606296
 
