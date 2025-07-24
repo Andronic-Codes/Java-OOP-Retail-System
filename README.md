@@ -1,8 +1,8 @@
 # Java-OOP-Retail-System
-Overview:
+### **Overview**:
 This project is a console-based food ordering and management system developed in Java. It applies core Object-Oriented Programming principles and includes a full set of features to simulate a small business environment—managing customers, employees, scheduling, invoicing, and internal data handling.
-
-Key Concepts Demonstrated:
+<br/><br/>
+### **Key Concepts Demonstrated**:    
 
 -Object-Oriented Programming in Java (Inheritance, Polymorphism, Encapsulation, Abstraction)
 
@@ -21,8 +21,8 @@ Key Concepts Demonstrated:
 -Input validation and error handling
 
 -Modular, testable code with included test cases
-
-Project Features:
+<br/><br/>
+### **Project Features**:
 
 -Add, view, and manage food orders
 
@@ -35,11 +35,11 @@ Project Features:
 -Text-based console interface for interaction
 
 -Error messages and validations to ensure robust operation
-
-Interface Style:
+<br/><br/>
+### **Interface Style**:
 This is a console-based program using text menus and prompts. The focus of the project is to showcase logic, design patterns, and OOP code quality—not GUI or external frameworks.
-
-Technologies Used:
+<br/><br/>
+### **Technologies Used**:
 
 -Java (JDK 8+)
 
@@ -48,8 +48,8 @@ Technologies Used:
 -UML for design
 
 -Manual data storage (e.g., ArrayLists, HashMaps)
-
-Contact: Feel free to reach out via LinkedIn or email if you'd like to discuss the project or collaborate.
+<br/><br/>
+### **Contact**: Feel free to reach out via LinkedIn or email if you'd like to discuss the project or collaborate.
 
 www.linkedin.com/in/vali-antonio-andronic-231606296
 
