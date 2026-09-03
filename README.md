@@ -128,16 +128,13 @@ The focus of the project was on the functionality and underlying design of the a
 Java-OOP-Retail-System/
 │
 ├── src/
-│   ├── Customer.java
-│   ├── Employee.java
-│   ├── Order.java
-│   ├── Invoice.java
+│   ├── Person.java
+│   ├── crud_customer.java
+│   ├── crud_fulltimestaff.java
+│   ├── crud_parttimestaff.java
 │   └── ...
-│
-├── test/
-│   └── ...
-│
+│   
 ├── Documentation/
-│   └── Java-OOP-Retail-System-Documentation.docx
+│   └── Java-OOP-Retail-System.docx
 │
 └── README.md
