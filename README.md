@@ -83,7 +83,7 @@ The application is designed to demonstrate how different parts of a business pro
 
 A full project document is included with the repository.
 
-**[View Project Documentation](./Documentation/Java-OOP-Retail-System-Documentation.docx)**
+**[View Project Documentation](./Documentation/Java-OOP-Retail-System.docx)**
 
 The documentation explains:
 
