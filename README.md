@@ -147,6 +147,3 @@ Java-OOP-Retail-System/
 ---
 
 *Always learning. Always building.*
-
-
-*Always learning. Always building.*
