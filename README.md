@@ -138,12 +138,15 @@ Java-OOP-Retail-System/
 │   └── Java-OOP-Retail-System.docx
 │
 └── README.md
-
+```
 ### 📫 Contact
 
 **Email:** vali.antonio.andronic@gmail.com  
 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/vali-antonio-andronic-231606296/)
 
 ---
+
+*Always learning. Always building.*
+
 
 *Always learning. Always building.*
